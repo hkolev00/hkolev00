@@ -1,6 +1,6 @@
 Hello! 👋
 
-My name is Hristijan K. and I'm a Sneior studying Aerospace Engineering at UC San Diego
+My name is Hristijan K. and I'm a Senior studying Aerospace Engineering at UC San Diego
 
 <!--
 **hkolev00/hkolev00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
